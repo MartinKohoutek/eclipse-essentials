@@ -6,4 +6,7 @@ public class Examples {
 		System.out.println("Hello, World");
 	}
 
+	public void example() {
+
+	}
 }
