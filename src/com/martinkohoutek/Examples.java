@@ -7,7 +7,7 @@ public class Examples {
 	}
 
 	public void example() {
-
+		String str = "Hello";
 	}
 
 	public void exampleNew() {
