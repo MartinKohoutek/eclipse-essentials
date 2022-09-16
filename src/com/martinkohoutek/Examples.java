@@ -9,4 +9,7 @@ public class Examples {
 	public void example() {
 
 	}
+
+	public void exampleNew() {
+	}
 }
